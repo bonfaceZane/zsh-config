@@ -12,3 +12,6 @@ alias v="nvim"
 alias repos='ranger ~/Repos'
 alias zrc='nvim ~/.zshrc'
 alias exp='nvim ~/.config/zsh/exports.zsh'
+
+# tmux
+alias tt='tmux'
